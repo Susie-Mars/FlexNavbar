@@ -1,0 +1,43 @@
+.nav {
+    background-color: rgb(59, 58, 58);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.nav-links {
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: right;
+    list-style: none;
+    text-decoration: none;
+
+}
+.home {
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+
+}
+.find {
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+}
+.btn {
+    background-color: rgba(0, 255, 255, 0.804);
+    color: white;
+    box-shadow: 3px 4px 4px black;
+}
+.active {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+    
+}
